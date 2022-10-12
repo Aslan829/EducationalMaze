@@ -1,0 +1,2 @@
+# EducationalMaze
+Maze with 
